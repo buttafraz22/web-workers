@@ -1,6 +1,6 @@
 # Web-workers
 
-Web workers are javascript's methods of implementing multi-threaded behavior into client side applications.
+Web workers are javascript's methods of implementing multi-threaded behavior into client side applications. Javascript traditionally runs in a single threaded environment, so workers are used to siphon off processes using OS level concepts.
 
 ## Brief Description
 
